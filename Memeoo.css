@@ -4,11 +4,7 @@ body {
     background-size: cover;
     text-align: center;
     font-family: 'VT323', ;
-    color: white
+    color: white;
+    background-color: black
 
-}
-
-div {
-    color: black;
-    opacity: .4
 }
