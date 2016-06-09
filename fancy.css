@@ -1,0 +1,35 @@
+h1 {
+    color: mediumblue;
+    font-size: 100px;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+}
+
+h1 span {
+    color: violet;
+    display: inline;
+}
+
+span {
+    color: bisque;
+    font-style: italic;
+    font-size: 150px;
+}
+
+img {
+    width: 500px;
+    height: 150px;
+    border-radius: 30px;
+    border: 15px solid darkred;
+
+}
+
+body {
+    display: block;
+    background-image: url('http://images.esellerpro.com/2372/I/164/517/1023mainSDDF.jpg');
+    background-position: center;
+    background-size: color;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
