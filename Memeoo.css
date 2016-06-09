@@ -10,10 +10,8 @@ body {
 }
 
 .box {
-    .box{
     width: 600px;
     height: 400px;
     background-color: black;
-    opacity: .5
-}
+    opacity: .7
 }
