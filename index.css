@@ -1,18 +1,19 @@
 body {
-    background-image: image('http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-6.jpg');
-
+    background-image: url('http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-6.jpg');
+    background-position: center;
+    background-size: cover;
 
 }
 
 a {
     text-decoration: none;
-    font-color: white;
+    color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 500px
+    font-size: 100px;
     
 
 }
 
 a:hover {
-    font-color: maroon;
+    color: maroon;
 }
