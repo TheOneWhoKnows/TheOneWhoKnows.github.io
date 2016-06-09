@@ -8,3 +8,12 @@ body {
     background-color: black
 
 }
+
+.box {
+    .box{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    opacity: .5
+}
+}
