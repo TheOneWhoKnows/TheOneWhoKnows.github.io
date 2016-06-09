@@ -2,14 +2,6 @@ body {
     background-image: url('http://science-all.com/images/wallpapers/cool-background-images/cool-background-images-24.jpg');
     background-position: center;
     background-size: cover;
-    
-}
-
-h1 {
+    text-align: center;
     font-family: 'VT323', ;
-
-}
-
-h5 {
-    font-family: 'VT323', ;
-}
+    color: white
