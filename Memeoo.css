@@ -5,3 +5,10 @@ body {
     text-align: center;
     font-family: 'VT323', ;
     color: white
+
+}
+
+div {
+    color: black;
+    opacity: .4
+}
