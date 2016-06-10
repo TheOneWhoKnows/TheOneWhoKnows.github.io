@@ -9,14 +9,14 @@ section {
     width: 30em;
     margin: 0 auto;
     background-color: #fff;
-    margin-top: 5em;
+    margin-top: .01em;
     text-align: center;
 }
 
 h1 {
     font-size: 4em;
     font-weight: 10em;
-    padding: 0.4em 0;
+    padding: 0.2em 0;
     background-color: #3498db;
     font-weight: 100;
     color: #fff
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    padding: 0.2em 0;
+    padding: 0.4em 0;
     margin: 0;
     font-size: 2em;
     font-weight: 100;
@@ -52,12 +52,12 @@ button {
     display: block;
     color: #fff;
     background-color: 3498db;
-
+    margin: 0 auto;
     width: 80%;
     margin: 0 margin;
     font-size: 1.25em;
     font-weight: 300;
-    padding: 0.5em;
+    padding: 0.2em;
     border: none;
     outline: none;
     box-sizing: border-box;
@@ -70,5 +70,7 @@ div#itemsToDo div {
 
 div#itemsToDo div button {
     display: inline;
-    width: 80%
+    font-size: 0.75em;
+    float: right;
+    width: auto;
 }
