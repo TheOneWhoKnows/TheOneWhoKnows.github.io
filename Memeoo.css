@@ -9,14 +9,11 @@ body {
 
 }
 
-.box {
-    width: 600px;
-    height: 400px;
+div {
     background-color: black;
-    opacity: .7
-
+    opacity: .5;
 }
 
 span {
-    line-height: -600px
+    opacity: 1;
 }
